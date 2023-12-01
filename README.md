@@ -25,4 +25,20 @@ Building a decentralized  BTC Layer2 that uses BTC as Gas and is compatible with
 **BTC to EVM**  
 BEVM plans to build the DBFX Protocol, a decentralized Bitcoin "foreign exchange system," aimed at introducing Bitcoin(digital gold) into any chain and ecosystem. It aims to help various blockchains and Layer 1 increase their Bitcoin foreign exchange reserves and enhance their monetary credibility. In our view, although WBTC allows Bitcoin to circulate within the EVM ecosystem, it is an asset produced by centralized institutions and contradicts the decentralized philosophy of Bitcoin. By using the DBFX protocol, BEVM enables native BTC to circulate between any chains, allowing users to truly have control over their Bitcoin assets on any chain (being able to freely redeem and generate native Bitcoin on any chain).
 
+## BEVM Whitepaper NFT Launch
 
+5507 days since the Bitcoin whitepaper, BEVM, an EVM-compatible Bitcoin Layer 2 innovation, announced its whitepaper on November 29, 2023. To mark this momentous occasion, BEVM introduced a commemorative collection of 10,000 NFTs on the Bitcoin network. These NFTs, capturing key moments and elements from the Bitcoin ecosystem, serve as mementos to honor the union of traditional Bitcoin technology and modern blockchain advancements.
+
+## NFT Details:
+* Quantity: Strictly limited to 10,000 NFTs.
+* Availability: Offered on a first-come, first-served basis, with validity ceasing once the limit is reached.
+* Activation Block: The distribution starts from Bitcoin block number 819249.
+* Value Proposition: The NFTs are solely commemorative, devoid of any intrinsic monetary value.
+* Design: The design of each NFT, formatted as an SVG file, reflects the legacy of Bitcoin and the technological evolution embodied by BEVM.
+
+## Participation Process:
+1. Downloading the NFT: Users can download the SVG file of the NFT to partake in this historic event.
+2. Engraving on Platforms: Enthusiasts have the option to mint or engrave these NFTs on platforms like Unisat, enhancing their digital collections.
+3. Commemorative Significance: Owning these NFTs symbolizes a part of Bitcoin's evolving journey, reflecting the integration of new-age blockchain functionalities.
+
+These NFTs, while symbolizing significant milestones, are intended as keepsakes to commemorate the publication of the BEVM whitepaper, reflecting a key development in the history of blockchain technology.
