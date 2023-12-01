@@ -22,7 +22,7 @@ The explosion of Token Launch Protocols on Bitcoin such as Ordinals in 2023 is a
 
 **BTC EVM**  
 Building a decentralized  BTC Layer2 that uses BTC as Gas and is compatible with EVM, enabling various applications from the EVM ecosystem to be seamlessly and easily deployed on BEVM, thereby increasing the use and consumption scenarios for Bitcoin. To better maintain the security of the Bitcoin network, BEVM will launch BEVM - Stack in the future, which will help developers and Bitcoin projects with high throughput demands to build their own BTC Layer 2.  
-**BTC to EVM**  
+**BTC to VM**  
 BEVM plans to build the DBFX Protocol, a decentralized Bitcoin "foreign exchange system," aimed at introducing Bitcoin(digital gold) into any chain and ecosystem. It aims to help various blockchains and Layer 1 increase their Bitcoin foreign exchange reserves and enhance their monetary credibility. In our view, although WBTC allows Bitcoin to circulate within the EVM ecosystem, it is an asset produced by centralized institutions and contradicts the decentralized philosophy of Bitcoin. By using the DBFX protocol, BEVM enables native BTC to circulate between any chains, allowing users to truly have control over their Bitcoin assets on any chain (being able to freely redeem and generate native Bitcoin on any chain).
 
 ## BEVM Whitepaper NFT Launch
