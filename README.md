@@ -30,14 +30,14 @@ BEVM plans to build the DBFX Protocol, a decentralized Bitcoin "foreign exchange
 5507 days since the Bitcoin whitepaper, BEVM, an EVM-compatible Bitcoin Layer 2 innovation, announced its whitepaper on November 29, 2023. To mark this momentous occasion, BEVM introduced a commemorative collection of 10,000 NFTs on the Bitcoin network. These NFTs, capturing key moments and elements from the Bitcoin ecosystem, serve as mementos to honor the union of traditional Bitcoin technology and modern blockchain advancements.
 
 ### NFT Details:
-* Quantity: Strictly limited to 10,000 NFTs.
+* Quantity: Limited to 10,000 NFTs.
 * Availability: Offered on a first-come, first-served basis, with validity ceasing once the limit is reached.
 * Activation Block: The distribution starts from Bitcoin block number 819249.
 * Value Proposition: The NFTs are solely commemorative, devoid of any intrinsic monetary value.
 * Design: The design of each NFT, formatted as an SVG file, reflects the legacy of Bitcoin and the technological evolution embodied by BEVM.
 
 ### Participation Process:
-1. Downloading the NFT: Users can download [download the SVG file](https://raw.githubusercontent.com/btclayer2/BEVM-white-paper/main/bevm-whitepaper-nft.svg) of the NFT to partake in this historic event.
+1. **Downloading the NFT:** Users can view and download the SVG file of the NFT by visiting [this GitHub page](https://github.com/btclayer2/BEVM-white-paper/blob/main/bevm-whitepaper-nft.svg). Once on the page, click on "Download raw file". 
 2. Engraving on Platforms: Enthusiasts have the option to mint or engrave these NFTs on platforms like Unisat, enhancing their digital collections.
 3. Commemorative Significance: Owning these NFTs symbolizes a part of Bitcoin's evolving journey, reflecting the integration of new-age blockchain functionalities.
 
