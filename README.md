@@ -37,8 +37,5 @@ BEVM plans to build the DBFX Protocol, a decentralized Bitcoin "foreign exchange
 * **Design**: The design of each NFT, formatted as an SVG file, reflects the legacy of Bitcoin and the technological evolution embodied by BEVM.
 
 ### Participation Process:
-1. **Downloading the NFT**: Users can view and download the SVG file of the NFT by visiting [this GitHub page](https://github.com/btclayer2/BEVM-white-paper/blob/main/bevm-whitepaper-nft.svg). Once on the page, click on "Download raw file". 
-2. **Engraving on Platforms**: Enthusiasts have the option to mint or engrave these NFTs on platforms like Unisat, enhancing their digital collections.
-3. **Commemorative Significance**: Owning these NFTs symbolizes a part of Bitcoin's evolving journey, reflecting the integration of new-age blockchain functionalities.
-
-These NFTs, while symbolizing significant milestones, are intended as keepsakes to commemorate the publication of the BEVM whitepaper, reflecting a key development in the history of blockchain technology.
+- 1. **Downloading the NFT**: Users can view and download the SVG file of the NFT by visiting [this GitHub page](https://github.com/btclayer2/BEVM-white-paper/blob/main/bevm-whitepaper-nft.svg). Once on the page, click on "Download raw file". 
+- 2. Enthusiasts have the option to mint these NFTs on platforms like Unisat.
