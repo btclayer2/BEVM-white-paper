@@ -26,15 +26,13 @@ Building a decentralized  BTC Layer2 that uses BTC as Gas and is compatible with
 BEVM plans to build the DBFX Protocol, a decentralized Bitcoin "foreign exchange system," aimed at introducing Bitcoin(digital gold) into any chain and ecosystem. It aims to help various blockchains and Layer 1 increase their Bitcoin foreign exchange reserves and enhance their monetary credibility. In our view, although WBTC allows Bitcoin to circulate within the EVM ecosystem, it is an asset produced by centralized institutions and contradicts the decentralized philosophy of Bitcoin. By using the DBFX protocol, BEVM enables native BTC to circulate between any chains, allowing users to truly have control over their Bitcoin assets on any chain (being able to freely redeem and generate native Bitcoin on any chain).
 
 ## BEVM Whitepaper NFT Launch
-
-5507 days since the Bitcoin whitepaper, BEVM, an EVM-compatible Bitcoin Layer 2 innovation, announced its whitepaper on November 29, 2023. To mark this momentous occasion, BEVM introduced a commemorative collection of 10,000 NFTs on the Bitcoin network. These NFTs, capturing key moments and elements from the Bitcoin ecosystem, serve as mementos to honor the union of traditional Bitcoin technology and modern blockchain advancements.
+5507 days since the Bitcoin whitepaper, BEVM, an EVM-compatible Bitcoin Layer 2 innovation, announced its whitepaper on November 29, 2023. To mark this significant milestone, BEVM introduced a commemorative collection of 10,000 NFTs on the Bitcoin network, based on the innovative [Ordinals protocol](https://github.com/ordinals/ord).
 
 ### NFT Details:
-* **Quantity**: Limited to 10,000 NFTs.
-* **Availability**: Offered on a first-come, first-served basis, with validity ceasing once the limit is reached.
-* **Activation Block**: The distribution starts from Bitcoin block number 819249.
-* **Value Proposition**: The NFTs are solely commemorative, devoid of any intrinsic monetary value.
-* **Design**: The design of each NFT, formatted as an SVG file, reflects the legacy of Bitcoin and the technological evolution embodied by BEVM.
+* Quantity: Limited to 10,000 NFTs.
+* Availability: Offered on a first-come, first-served basis, with validity ceasing once the limit is reached.
+* Activation Block: The distribution starts from Bitcoin block number 819249.
+* Value Proposition: The NFTs are solely commemorative, devoid of any intrinsic monetary value.
 
 ### Participation Process:
 1. **Downloading the NFT**: Users can view and download the SVG file of the NFT by visiting [this GitHub page](https://github.com/btclayer2/BEVM-white-paper/blob/main/bevm-whitepaper-nft.svg). Once on the page, click on "Download raw file". 
