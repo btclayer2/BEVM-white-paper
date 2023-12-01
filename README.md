@@ -10,7 +10,7 @@ BTC commands nearly 50% of the cryptocurrency market share, yet since its incept
 ## The Positioning of BEVM  
 BEVM is a decentralized and EVM-compatible Bitcoin Layer2 using BTC as Gas.  
 BEVM is based on technologies such as the Schnorr's signature algorithm, brought about by the Taproot upgrade, allowing BTC to cross-chain from Bitcoin mainnet to Layer 2 in a decentralized approach. Since BEVM is compatible with EVM, it allows all DApps which can run in the Ethereum ecosystem to operate on BTC Layer 2, with BTC serving as Gas.  
-## The Background of BEVM's Inception****  
+## The Background of BEVM's Inception 
 - 1. SegWit and Taproot Upgrades. The birth of BEVM is entirely based on Bitcoin's 2017 SegWit upgrade and the 2021 Taproot upgrade. The SegWit upgrade allowed Bitcoin blocks to accommodate larger data. The Taproot upgrade not only allowed the expanded space to contain more complex data but also introduced the Schnorr's signature algorithm, making decentralized Bitcoin multisig a reality. This, in turn, enabled decentralized Bitcoin cross-chain operations, and ultimately, decentralized BTC Layer2 became a reality. BEVM is the best example of a decentralized BTC Layer2.
 The SegWit and Taproot upgrades have once again made Bitcoin great, evolving Bitcoin from the 1.0 era to the Bitcoin 2.0 era, allowing us to see a richer Bitcoin ecosystem.
 - 2. The Explosion of Token Launch Protocols on Bitcoin like Ordinals in 2023
